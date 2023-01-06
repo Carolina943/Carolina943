@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, MongoDB, express and .NET**
 
-- 📫 How to reach me **aka943@gmail.com**
+- 📫 How to reach me **akadev943@gmail.com**
 
 <p align="left">
 </p>
